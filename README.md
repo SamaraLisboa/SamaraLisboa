@@ -5,9 +5,9 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como Engenheira de Cyber Segurança na C6 Bank.
-- 🌱 Aprendendo mais sobre tecnologias, linguagens e processos de segurança.
+- 🤔 Explorando novas tecnologias, linguagens e processos de segurança.
+- 💼 Trabalhando como Engenheira de Cibersegurança na C6 Bank.
+- 🌱 Aprimorando e aprendendo soft skills e hard skills.
 
 ## Minhas Skills
 
