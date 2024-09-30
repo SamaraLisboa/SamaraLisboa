@@ -6,7 +6,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias, linguagens e processos de segurança.
-- 💼 Trabalhando como Engenheira de Cibersegurança na C6 Bank.
+- 💼 Trabalhando como Estagiária em Engenharia de Cibersegurança no C6 Bank.
 - 🌱 Aprimorando e aprendendo soft skills e hard skills.
 
 ## Minhas Skills
